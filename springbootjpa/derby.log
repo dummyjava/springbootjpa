@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Sun Aug 12 09:41:53 EDT 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0165-2e5f-29b4-00000a9ad140 
-on database directory memory:/Users/sap/eclipse-workspace/springbootjpa/testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Sun Aug 12 10:55:46 EDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0165-2ea2-ce23-00000ad00710 
+on database directory memory:/Users/sap/git/springbootjpa/springbootjpa/testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
 Loaded from file:/Users/sap/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_181-b13
-user.dir=/Users/sap/eclipse-workspace/springbootjpa
+user.dir=/Users/sap/git/springbootjpa/springbootjpa
 os.name=Mac OS X
 os.arch=x86_64
 os.version=10.13.6
